@@ -1,0 +1,8 @@
+/* Vanguard Vault tokens — extracted from the capstone prototype. */
+:root {
+  --cream:#F7F3EF; --ink:#1A1A1A; --bronze:#B87C4A; --bronze-deep:#8E5A31;
+  --violet:#6D5B8C; --muted:#6F675C; --beige1:#EFE6DD; --beige2:#E5D8C7; --beige3:#D4C2AA;
+  --line:#EAE2D7; --dot:#D8CFC1;
+  --serif:'Playfair Display',Georgia,serif;
+  --sans:'Inter',system-ui,-apple-system,sans-serif;
+}
